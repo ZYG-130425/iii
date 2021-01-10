@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger</name>
+    </assembly>
+    <members>
+        <member name="T:Swagger.Controllers.BaseController">
+            <summary>
+            有
+            </summary>
+        </member>
+        <member name="T:Swagger.Controllers.PersonController">
+            <summary>
+            控制器
+            </summary>
+        </member>
+        <member name="M:Swagger.Controllers.PersonController.Show">
+            <summary>
+            hlow
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
